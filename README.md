@@ -3,7 +3,7 @@ Bonjour à tous,
 Actuellement à la recherche d'un poste de Data Scientist, je crée cette page GitHub afin de montrer les projets que je réalise.
 Ces projets sont diverses afin de montrer l'étendue de mes compétences de Data Scientist.  
 Mes réalisations sont les suivantes :
--
+- Data Analyse
 -
 -
 -
