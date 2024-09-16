@@ -5,7 +5,7 @@ Pour démontrer mes capacités, je réalise différents projets sur plusieurs su
 Mes premières réalisations sont les suivantes :
 - Analyse de Marché
 - Prédiction de prix
-- Classification de déchet (à venir)
+- Classification de déchet
 - Assistant Vocal (à venir)
 
 Par la suite, je réaliserai d'autres projets principalement en Computer Vision où je souhaite me spécialiser. Certains projets se ressembleront dans leur titre mais des méthodologies différentes seront abordés afin de les réalisé.  
